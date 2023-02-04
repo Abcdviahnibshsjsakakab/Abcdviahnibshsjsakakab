@@ -18,8 +18,6 @@
 <p align="left">
 - 𝗠𝗢𝗦𝗧 𝗔𝗖𝗧𝗜𝗩𝗘 𝗢𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 @𝗩𝗜𝗦_𝗛𝗡𝗨_𝗕𝗢𝗧 🔥 
 <samp>&nbsp;&nbsp;[Website](https://fayasnoushad.github.io) | [Twitter](https://twitter.com/FayasNoushad) | [Telegram](https://telegram.me/FayasNoushad) | [LinkedIn](https://www.linkedin.com/in/fayasnoushad) | [Instagram](https://www.instagram.com/FayasNoushad/) </samp>
-</a>
-</p>
 
 # My Social Profiles
 
