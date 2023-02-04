@@ -16,12 +16,13 @@
 <p align="left">
 • 𝚆𝚘𝚛𝚔 : 𝚂𝚝𝚞𝚍𝚢 𝙸𝚗 PLUS TWO
 <p align="left">
-- 𝗠𝗢𝗦𝗧 𝗔𝗖𝗧𝗜𝗩𝗘 𝗢𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 @𝗩𝗜𝗦_𝗛𝗡𝗨_𝗕𝗢𝗧 🔥
-
-# My Social Profiles
-<p align="center">
+- 𝗠𝗢𝗦𝗧 𝗔𝗖𝗧𝗜𝗩𝗘 𝗢𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 @𝗩𝗜𝗦_𝗛𝗡𝗨_𝗕𝗢𝗧 🔥 
+  <p align="center">
 <a href="https://t.me/VIS_HNU_BOT"><img alt="Telegram" src="https://img.shields.io/badge/subinps-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
+
+# My Social Profiles
+
 
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=subinps&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
