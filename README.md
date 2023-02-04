@@ -27,14 +27,3 @@
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=Abcdviahnibshsjsakakab&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
-  <p align="center">  
-
-  <a href="https://citel.vercel.app/">
-
-    <img alt="secktor docs" height="300" src="https://secktorbot.tech/main.jpg">
-
-    <h1 align="center">Secktor MD Whatsapp bot</h1>
-
-  </a>
-
-</p>
