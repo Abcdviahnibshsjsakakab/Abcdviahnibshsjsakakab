@@ -47,3 +47,8 @@
 <a href="https://telegram.dog/MRK_yt"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-Lɪɴᴋ-blue.svg?logo=telegram"></a>
 
 <a href="https://github.com/MRK-YT"><img src="https://badgen.net/badge/Fᴏʟʟᴏᴡ%20Oɴ%20/Gɪᴛʜᴜʙ/80FF00?icon=github&labelColor=black"></a>
+<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/Yᴏᴜᴛᴜʙᴇ-Cʜᴀɴɴᴇʟ-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
+
+<p align="left">
+
+</p>         
