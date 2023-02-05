@@ -19,7 +19,9 @@
 <p align="left">
 - 𝗠𝗢𝗦𝗧 𝗔𝗖𝗧𝗜𝗩𝗘 𝗢𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 @𝗩𝗜𝗦_𝗛𝗡𝗨_𝗕𝗢𝗧 🔥 
   
-<samp>&nbsp;&nbsp;[Telegram](https://telegram.me/FayasNoushad)</samp>
+☎️ **Contect Here**
+
+<a href="https://telegram.dog/vis_hnu_"><img alt="telegram" src="https://img.shields.io/badge/Telegram-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
   
   
 | 𝙀𝙢𝙤𝙟𝙞 | 𝘿𝙚𝙩𝙖𝙞𝙡𝙨 | 𝙄𝙣𝙛𝙤 |
@@ -35,6 +37,3 @@
 <img src="https://github-stats-alpha.vercel.app/api/?username=Abcdviahnibshsjsakakab&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
-☎️ **Contect Here**
-
-<a href="https://telegram.dog/vis_hnu_"><img alt="telegram" src="https://img.shields.io/badge/Telegram-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
